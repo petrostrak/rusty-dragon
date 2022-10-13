@@ -7,6 +7,5 @@ To play:
 cd rusty-dragon && cargo run
 ```
 
-[img](https://github.com/petrostrak/rusty-dragon/imgs/blob/main/rusty-1.png)
-
-[img](https://github.com/petrostrak/rusty-dragon/imgs/blob/main/rusty-2.png)
+![alt text](https://github.com/petrostrak/rusty-dragon/blob/master/imgs/rusty-1.png)
+![alt text](https://github.com/petrostrak/rusty-dragon/blob/master/imgs/rusty-2.png)
